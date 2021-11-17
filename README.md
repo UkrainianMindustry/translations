@@ -5,3 +5,5 @@
 * [Sharlottes/UnitInfo](https://github.com/Sharlottes/UnitInfo)<br>
 * [sk7725/BetaMindy](https://github.com/sk7725/BetaMindy)<br>
 * [mindustry-antigrief/mindustry-client](https://github.com/mindustry-antigrief/mindustry-client)
+* [Eschatologue/Unlimited-Armament-Works](https://github.com/Eschatologue/Unlimited-Armament-Works)
+* [MEEPofFaith/prog-mats-java](https://github.com/MEEPofFaith/prog-mats-java)
