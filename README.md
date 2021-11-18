@@ -8,3 +8,8 @@
 * [Eschatologue/Unlimited-Armament-Works](https://github.com/Eschatologue/Unlimited-Armament-Works)
 * [MEEPofFaith/prog-mats-java](https://github.com/MEEPofFaith/prog-mats-java)<br>
 * [Yuria-Shikibe/NewHorizonMod](https://github.com/Yuria-Shikibe/NewHorizonMod)
+* [BlueWolf3682/Exotic-Mod](https://github.com/BlueWolf3682/Exotic-Mod)
+* [Sh1penfire/Endless-Rusting-Demo](https://github.com/Sh1penfire/Endless-Rusting-Demo)
+* [Slotterleet/GoldMod](https://github.com/Slotterleet/GoldMod) (updates)
+* [Sharlottes/ExampleMod](https://github.com/Sharlottes/ExampleMod)
+* [Eschatologue/Unlimited-Armament-Works](https://github.com/Eschatologue/Unlimited-Armament-Works)
