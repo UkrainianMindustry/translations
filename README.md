@@ -1,11 +1,11 @@
 # List of all current mods with Ukrainian localization.
 * [UkrainianMindustry/PvP-Notifs](https://github.com/UkrainianMindustry/PvP-Notifs) is [Xeloboyo/PvP-Notifs](https://github.com/Xeloboyo/PvP-Notifs)'s fork
 * [Sharlottes/UnitInfo](https://github.com/Sharlottes/UnitInfo)
+* [sk7725/BetaMindy](https://github.com/sk7725/BetaMindy)
 
 
 # Translation in progress
 * [AvantTeam/ProjectUnityPublic](https://github.com/AvantTeam/ProjectUnityPublic)
-* [sk7725/BetaMindy](https://github.com/sk7725/BetaMindy)
 
 
 # To Do List.
