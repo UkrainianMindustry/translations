@@ -18,3 +18,4 @@
 * [Sh1penfire/Endless-Rusting-Demo](https://github.com/Sh1penfire/Endless-Rusting-Demo)
 * [Slotterleet/GoldMod](https://github.com/Slotterleet/GoldMod) (updates)
 * [Sharlottes/ExampleMod](https://github.com/Sharlottes/ExampleMod)
+* [Sh1penfire/pixelcraft](https://github.com/Sh1penfire/pixelcraft)
