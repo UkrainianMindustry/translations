@@ -1,8 +1,9 @@
 # List of all current mods with Ukrainian localization.
 * [UkrainianMindustry/PvP-Notifs](https://github.com/UkrainianMindustry/PvP-Notifs) is [Xeloboyo/PvP-Notifs](https://github.com/Xeloboyo/PvP-Notifs)'s fork
 * [Sharlottes/UnitInfo](https://github.com/Sharlottes/UnitInfo)
-* [sk7725/BetaMindy](https://github.com/sk7725/BetaMindy)
-* [FlinTyX/Animalia](https://github.com/FlinTyX/Animalia)
+* [sk7725/BetaMindy](https://github.com/sk7725/BetaMindy) (waiting for another release)
+* [FlinTyX/Animalia](https://github.com/FlinTyX/Animalia) (waiting for merge)
+* [MEEPofFaith/testing-utilities-java](https://github.com/MEEPofFaith/testing-utilities-java) (waiting for merge)
 
 
 # Translation in progress
