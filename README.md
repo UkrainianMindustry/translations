@@ -10,6 +10,7 @@
 * [AvantTeam/ProjectUnityPublic](https://github.com/AvantTeam/ProjectUnityPublic)
 * [Eschatologue/Unlimited-Armament-Works](Eschatologue/Unlimited-Armament-Works)
 * [Yuria-Shikibe/NewHorizonMod](https://github.com/Yuria-Shikibe/NewHorizonMod)
+* [BlueWolf3682/Exotic-Mod](https://github.com/BlueWolf3682/Exotic-Mod)
 
 
 # To Do List.
@@ -17,7 +18,6 @@
 * [mindustry-antigrief/mindustry-client](https://github.com/mindustry-antigrief/mindustry-client)
 * [Eschatologue/Unlimited-Armament-Works](https://github.com/Eschatologue/Unlimited-Armament-Works)
 * [MEEPofFaith/prog-mats-java](https://github.com/MEEPofFaith/prog-mats-java)<br>
-* [BlueWolf3682/Exotic-Mod](https://github.com/BlueWolf3682/Exotic-Mod)
 * [Sh1penfire/Endless-Rusting-Demo](https://github.com/Sh1penfire/Endless-Rusting-Demo)
 * [Slotterleet/GoldMod](https://github.com/Slotterleet/GoldMod) (updates)
 * [Sharlottes/ExampleMod](https://github.com/Sharlottes/ExampleMod)
