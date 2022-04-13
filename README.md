@@ -5,6 +5,7 @@
 * [FlinTyX/Animalia](https://github.com/FlinTyX/Animalia)
 * [MEEPofFaith/testing-utilities-java](https://github.com/MEEPofFaith/testing-utilities-java)
 * [Eschatologue/Unlimited-Armament-Works](Eschatologue/Unlimited-Armament-Works) (waiting for new release)
+* [WMF-Industries/ExpandedIndustries](https://github.com/WMF-Industries/ExpandedIndustries) (waiting for new release)
 
 
 # Translation in progress
