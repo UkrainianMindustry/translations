@@ -12,6 +12,7 @@
 * [AvantTeam/ProjectUnityPublic](https://github.com/AvantTeam/ProjectUnityPublic)
 * [Yuria-Shikibe/NewHorizonMod](https://github.com/Yuria-Shikibe/NewHorizonMod)
 * [BlueWolf3682/Exotic-Mod](https://github.com/BlueWolf3682/Exotic-Mod)
+* [Sharlottes/ExampleMod](https://github.com/Sharlottes/ExampleMod)
 
 
 # To Do List.
@@ -21,5 +22,4 @@
 * [MEEPofFaith/prog-mats-java](https://github.com/MEEPofFaith/prog-mats-java)<br>
 * [Sh1penfire/Endless-Rusting-Demo](https://github.com/Sh1penfire/Endless-Rusting-Demo)
 * [Slotterleet/GoldMod](https://github.com/Slotterleet/GoldMod) (updates)
-* [Sharlottes/ExampleMod](https://github.com/Sharlottes/ExampleMod)
 * [Sh1penfire/pixelcraft](https://github.com/Sh1penfire/pixelcraft)
